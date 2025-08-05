@@ -1,0 +1,4 @@
+Name Wetland,ID,Area (km2),Type of wetland,Species richness,Species normalized,lat,lon,SatAreaFrac
+Ta' Gnien Imrik Pond,GOZ009,0.002,Inland,2,1000,36.05478,14.25753,0.003324598
+Il-Qattara,GOZ011,0.001,Inland,18,18000,36.05131,14.19253,0
+Ghajn Rihana,MAL020,0.073,Inland,14,191.7808219,35.92216,14.40888,0
